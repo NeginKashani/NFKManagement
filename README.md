@@ -5,7 +5,7 @@
 
 - Created - 2024-09-10
 
-- Technologies Used - Html5 ,CSS ,SASS,Javascript,React js ,Tailwind css , Animation
+- Technologies Used - Html5 ,CSS ,SASS,Javascript,React js ,Tailwind css , Animation ,Responsive
 
 - Hooks Used : useState 
 
